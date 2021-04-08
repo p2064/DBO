@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.css</file>
+        <file>renew.svg</file>
+        <file>tip.svg</file>
+        <file>left-arrow.svg</file>
+        <file>individualWhite.svg</file>
+        <file>businessWhite.svg</file>
+        <file>downArrow.svg</file>
+        <file>downArrow1.svg</file>
+    </qresource>
+</RCC>
